@@ -1,0 +1,139 @@
+repositories:
+  - name: Python-Apprentice
+    url: https://github.com/ericbusboom/Python-Apprentice
+    description: "League Python Apprentice Curriculum"
+    created_at: 2024-08-17T00:41:51Z
+    updated_at: 2024-08-27T21:43:31Z
+
+  - name: servo-test
+    url: https://github.com/ericbusboom/servo-test
+    description: "Microbit servo test, Press buttons to exercise servos"
+    created_at: 2024-06-13T17:29:29Z
+    updated_at: 2024-06-13T17:29:40Z
+
+  - name: cutebot
+    url: https://github.com/ericbusboom/cutebot
+    description: "A MakeCode project"
+    created_at: 2024-06-12T03:39:45Z
+    updated_at: 2024-06-12T03:39:56Z
+
+  - name: scratch
+    url: https://github.com/ericbusboom/scratch
+    description: "Scratch for quick data analysis"
+    created_at: 2024-02-17T04:37:32Z
+    updated_at: 2024-02-17T04:37:32Z
+
+  - name: pyprocessing
+    url: https://github.com/ericbusboom/pyprocessing
+    description: "2023-12-14T23:14:19Z"
+    created_at: 2023-12-14T23:15:01Z
+    updated_at: PUBLIC
+
+  - name: pairprog
+    url: https://github.com/ericbusboom/pairprog
+    description: "A Pair Programming AI Agent"
+    created_at: 2023-11-18T20:24:55Z
+    updated_at: 2023-11-18T21:22:01Z
+
+  - name: cpp-template
+    url: https://github.com/ericbusboom/cpp-template
+    description: "A template C++ repository, using CMake and Catch"
+    created_at: 2023-10-20T04:51:35Z
+    updated_at: 2023-10-22T16:26:11Z
+
+  - name: cmake-project-template
+    url: https://github.com/ericbusboom/cmake-project-template
+    description: "A base C++ project built with CMake"
+    created_at: 2023-10-20T03:19:37Z
+    updated_at: 2023-10-20T03:20:53Z
+
+  - name: home-docker
+    url: https://github.com/ericbusboom/home-docker
+    description: "Docker containers for home network. "
+    created_at: 2015-11-12T04:07:38Z
+    updated_at: 2023-04-06T18:57:08Z
+
+  - name: codespaces-vnc
+    url: https://github.com/ericbusboom/codespaces-vnc
+    description: "Virtual linux computer with GitHub codespaces"
+    created_at: 2024-02-08T15:48:33Z
+    updated_at: 2024-02-08T15:48:34Z
+
+  - name: Password-Cracker
+    url: https://github.com/ericbusboom/Password-Cracker
+    description: "2023-01-20T22:53:28Z"
+    created_at: 2022-11-22T02:45:50Z
+    updated_at: PUBLIC
+
+  - name: ddns-tools
+    url: https://github.com/ericbusboom/ddns-tools
+    description: "Helper tools for Dynamic DNS APIs"
+    created_at: 2023-07-25T01:19:58Z
+    updated_at: 2023-07-25T01:19:58Z
+
+  - name: ericbusboom
+    url: https://github.com/ericbusboom/ericbusboom
+    description: "Config files for my GitHub profile "
+    created_at: 2021-05-25T18:07:28Z
+    updated_at: 2024-03-31T19:20:21Z
+
+  - name: supersplat
+    url: https://github.com/ericbusboom/supersplat
+    description: "The Superslat Game!"
+    created_at: 2021-03-16T18:45:52Z
+    updated_at: 2021-03-17T03:39:25Z
+
+  - name: data_analysis
+    url: https://github.com/ericbusboom/data_analysis
+    description: "2015-06-24T03:08:28Z"
+    created_at: 2019-10-23T15:40:12Z
+    updated_at: PUBLIC
+
+  - name: Colab-notebooks
+    url: https://github.com/ericbusboom/Colab-notebooks
+    description: "Repo for Google Colab Notebooks. "
+    created_at: 2019-04-19T01:08:41Z
+    updated_at: 2019-04-19T15:46:58Z
+
+  - name: sandiegodata
+    url: https://github.com/ericbusboom/sandiegodata
+    description: "Repo for the San Diego Regional Data  Library Jupyter server"
+    created_at: 2018-10-18T00:17:54Z
+    updated_at: 2018-10-18T04:09:36Z
+
+  - name: personality-types
+    url: https://github.com/ericbusboom/personality-types
+    description: "2018-09-18T01:03:21Z"
+    created_at: 2018-09-18T01:03:59Z
+    updated_at: PUBLIC
+
+  - name: jupyterhub-redmine-authenticator
+    url: https://github.com/ericbusboom/jupyterhub-redmine-authenticator
+    description: "2018-07-07T17:32:25Z"
+    created_at: 2018-07-08T00:24:07Z
+    updated_at: PUBLIC
+
+  - name: secure-proxy
+    url: https://github.com/ericbusboom/secure-proxy
+    description: "Docker Compose (docker-compose) for docker-letsencrypt-nginx-proxy-companion"
+    created_at: 2017-09-28T20:59:45Z
+    updated_at: 2017-09-28T22:32:38Z
+
+  - name: docker-hello-world
+    url: https://github.com/ericbusboom/docker-hello-world
+    description: "Hello World web server in under 2.5 MB "
+    created_at: 2017-09-29T03:41:48Z
+    updated_at: 2017-09-29T03:41:50Z
+
+  - name: docker-dnsmasq
+    url: https://github.com/ericbusboom/docker-dnsmasq
+    description: "dnsmasq in a docker container, configurable via a simple web UI"
+    created_at: 2015-11-12T04:03:53Z
+    updated_at: 2015-11-12T04:03:54Z
+
+  - name: insteon
+    url: https://github.com/ericbusboom/insteon
+    description: "Control program for Insteon ethernet controllers"
+    created_at: 2013-03-30T22:31:16Z
+    updated_at: 2015-02-14T19:55:21Z
+

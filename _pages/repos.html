@@ -1,0 +1,13 @@
+---
+permalink: /repos/
+title: My Projects
+---
+
+<ul>
+    {% for repo in site.data.repositories.repositories %}
+      <li>
+        <a href="{{ repo.url }}">{{ repo.name }}</a> <small style="color: gray;">({{ repo.updated_at | date: "%B %d, %Y" }})</small>
+        <p>{{ repo.description }} </p>
+      </li>
+    {% endfor %}
+</ul>
