@@ -3,12 +3,12 @@ layout: league_home
 author_profile: true
 
 sidebar:
-  - title: "Title"
-    image: "/assets/images/logos/flag.png"
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
+  - title: "Cutebot"
+    image: "/assets/images/misc/cutebot.png"
+    image_alt: "cutebot"
+    text: "Cutebot is a robot that is cute."
+  - title: "The LEAGUE"
+    text: "I'm learning to program at <a href=\"https://www.jointheleague.org\">The LEAGUE</a>."
 
 ---
 

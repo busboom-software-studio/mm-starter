@@ -1,0 +1,22 @@
+
+
+.sidebar img {
+    max-width: 125px;
+    max-height: 125px;
+    width: auto; /* Allows the image to scale proportionally */
+    height: auto; /* Maintains aspect ratio */
+}
+
+
+
+.archive__item-teaser {;
+    width: 360px;
+    height: 360px;
+}
+
+.archive__item-teaser img {
+    max-width: 360px;
+    max-height: 360px;
+    width: auto !important; /* Allows the image to scale proportionally */
+    height: auto; /* Maintains aspect ratio */
+}
