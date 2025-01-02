@@ -12,12 +12,7 @@ sidebar:
 
 ---
 
-Change your top menu from `_data/navigation.yml`, and most other links on the page
-in `_config.yml`
 
-See [https://mmistakes.github.io/minimal-mistakes/](https://mmistakes.github.io/minimal-mistakes/) for 
-documentation on the MM Theme. 
+This is your new Jekyll-based website, running on Github Pages. 
 
-
-Example of a [Splash Page](splash/)
-
+See the [Howto Page](/howto/) for details on how to set up this website. 

@@ -58,7 +58,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
+  - jekyll-toc
+  
 author:
   name   : "League Student"
   avatar : "/assets/images/logos/bolt.png"
